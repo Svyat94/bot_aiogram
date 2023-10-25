@@ -19,3 +19,6 @@ pip install -r requirements.txt
 ## Запускаем бота 
 Меняем строчку в кавычках вместо 'your_id_token' указываем токен, который нам дал bot_father
 bot = Bot('your_id_token') # Токен вашего телеграм бота
+и запускаем код
+
+Вводим /start в боте
